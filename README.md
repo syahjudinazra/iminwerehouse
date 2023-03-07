@@ -3,6 +3,7 @@
 Web Apps Sederhana Untuk Teknisi Mengelola Barang di Gudang
 <ul>
     <li>User login authentication</li>
+    <li>Fitur Scan Barcode Barang</li>
     <li>Fitur History</li>
     <li>Fitur Barang Masuk dan Keluar</li>
     <li>Fitur WIP</li>
