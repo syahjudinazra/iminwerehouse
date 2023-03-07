@@ -16,7 +16,7 @@ Web Apps Sederhana Untuk Teknisi Mengelola Barang di Gudang
     <li>Bootstrap 4</li>
     <li>PHP 7.4.5 </li>
     
-lain-lain:    
+### lain-lain:    
     <li>Admin Lte</li>
     <li>Username : admin</li>
     <li>Password : 123456</li>
