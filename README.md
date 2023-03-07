@@ -17,8 +17,8 @@ Web Apps Sederhana Untuk Teknisi Mengelola Barang di Gudang
     <li>PHP 7.4.5 </li>
     
 ### lain-lain:    
-    <li>Username : admin</li>
-    <li>Password : 123456</li>
+    Username : admin
+    Password : 123456
 </ul>
 ### Instalasi
 <ul>
